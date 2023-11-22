@@ -12,10 +12,13 @@
 
 Загрузить проект:
 
-окрываем новый проект в IDE
-в терминале git clone https://github.com/albinadesign/SkillFactory-F1-Weather-Forecast.git
-cd SkillFactory-F1-Weather-Forecast
-npm i
+1) окрываем новый проект в IDE
+
+2) в терминале git clone https://github.com/albinadesign/SkillFactory-F1-Weather-Forecast.git
+
+3) cd SkillFactory-F1-Weather-Forecast
+
+4) npm i
 
 Запустить: npm start
 
