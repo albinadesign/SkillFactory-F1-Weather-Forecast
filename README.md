@@ -11,6 +11,10 @@
 Данные должны запрашиваться через One Call API OpenWeather.
 
 Загрузить проект:
+окрываем новый проект в IDE
+в терминале git clone https://github.com/albinadesign/E13-new.git
+переходим в папку с проектом cd E13-new
+npm i
 
 Запустить: npm start
 
