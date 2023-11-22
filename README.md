@@ -12,8 +12,8 @@
 
 Загрузить проект:
 окрываем новый проект в IDE
-в терминале git clone https://github.com/albinadesign/E13-new.git
-переходим в папку с проектом cd E13-new
+в терминале git clone https://github.com/albinadesign/SkillFactory-F1-Weather-Forecast.git
+
 npm i
 
 Запустить: npm start
