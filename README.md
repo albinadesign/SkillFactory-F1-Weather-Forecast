@@ -11,9 +11,10 @@
 Данные должны запрашиваться через One Call API OpenWeather.
 
 Загрузить проект:
+
 окрываем новый проект в IDE
 в терминале git clone https://github.com/albinadesign/SkillFactory-F1-Weather-Forecast.git
-
+cd SkillFactory-F1-Weather-Forecast
 npm i
 
 Запустить: npm start
